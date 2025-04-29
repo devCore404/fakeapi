@@ -1,0 +1,11 @@
+.title{
+    color: blueviolet;
+}
+.btn-primary{
+    background-color: blueviolet!important;
+    border-color: blueviolet!important;
+    color: #000!important;
+}
+.btn-primary:hover{
+    color: #fff!important;
+}
